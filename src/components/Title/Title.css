@@ -1,0 +1,18 @@
+.titleContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1A1A1D;
+}
+
+.leftImage{
+    margin-right: 2em;
+}
+
+.rightImage{
+    margin-left: 2em;
+}
+
+.imageContainer{
+    color: white;
+}
